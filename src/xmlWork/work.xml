@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--        请定义xml文件，存储以下“图书”信息：
+        书名：《架构师成长之路》，出版社：黑马程序员，出版日期：2010-6-6，价格：125.00
+        书名：《JavaEE企业级开发》，出版社：黑马研究院，出版日期：2011-5-5，价格：115.80
+        书名：《Oracle指南》，出版社：清华计算机，出版日期：2012-7-7，价格：89.00-->
+<books>
+    <book>
+        <name>《架构师成长之路》</name>
+        <library>黑马程序员</library>
+        <date>2010-6-6</date>
+        <price>125.00</price>
+    </book>
+    <book>
+        <name>《JavaEE企业级开发》</name>
+        <library>黑马研究院</library>
+        <date>2011-5-5</date>
+        <price>115.80</price>
+    </book>
+    <book>
+        <name>《Oracle指南》</name>
+        <library>清华计算机</library>
+        <date>2012-7-7</date>
+        <price>89.00</price>
+    </book>
+</books>

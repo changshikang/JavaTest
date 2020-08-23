@@ -1,0 +1,9 @@
+<!ELEMENT students (student+)>
+<!ELEMENT student (name,age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST student id CDATA #FIXED "01">
+       <!-- 定义一个属性的格式为：<!ATTLIST 元素名称 属性名称 属性的类型 属性的约束> 属性的类型： CDATA类型：
+        普通的字符串
+        属性的约束:
+        // #REQUIRED： 必须的 // #IMPLIED： 属性不是必需的 // #FIXED value：属性值是固定的-->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE students SYSTEM 'studentdtd.dtd'>-->
+
+<students
+        <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+        xmlns="http://www.itheima.cn/javase"
+        xsi:schemaLocation="http://www.itheima.cn/javase person.xsd"-->
+        >
+    <student>
+        <name><![CDATA[<<<<<>>>>>>!2133321]]></name>
+        <age>25</age>
+
+    </student>
+    <student >
+        <name>张三</name>
+        <age>30</age>
+    </student>
+    <student>
+        <name>李四</name>
+        <age>20</age>
+    </student>
+</students>
+        <!--    <Teachers>
+                <Teacher name="teacher">
+                    <name>一加</name>
+                    <info><![CDATA[one plus]]></info>
+                </Teacher>
+            </Teachers>
+        </Person>-->
